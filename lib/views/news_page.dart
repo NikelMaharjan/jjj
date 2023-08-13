@@ -99,6 +99,7 @@ class NewsPage extends ConsumerWidget {
                     fit: BoxFit.cover,
                     placeholder: (context, url) => const ImageLoad(),
                     errorWidget: (context, url, error) => const Icon(Icons.error),
+
                   ),
                 ),
                 title: Container(
