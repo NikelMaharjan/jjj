@@ -6,7 +6,6 @@
 
 import 'package:dartz/dartz.dart';
 import 'package:dio/dio.dart';
-import 'package:news/exceptions/api_exception.dart';
 import 'package:news/exceptions/api_exceptions.dart';
 import 'package:news/models/news.dart';
 
